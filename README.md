@@ -12,9 +12,9 @@ Welcome to the repo dedicated to advancing the intersection of Artificial Intell
 ### Data Sources
 
 ### Insightful Articles and Opinions
+[AI in Human Resources. How it helps?](https://resources.workable.com/tutorial/artificial-intelligence-in-human-resources)
+
 [Guide to Implementing AI in Your HR Oragnization](https://www.gartner.com/en/human-resources/topics/artificial-intelligence-in-hr)
-
-
 
 [Synthetic Dataset Created to Mimic Real World HR Data](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set/data)
 ### Learn
